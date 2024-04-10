@@ -1,4 +1,4 @@
-# Install_dart_sdk
+# Install Dart SDK
 
 
 "Hello everyone, today we're going to set up the environment we really need to be able to write code in Dart, which is the language we're going to learn.
