@@ -5,7 +5,7 @@
 
 
 First, we'll open Chrome and go to the search bar. Then, we'll search for 'download Dart SDK'. This is the first thing we need. I'll click on the first link that appears.
-![search dart sdk.png](https://github.com/AhmedWaela/install_dart_sdk/blob/main/search%20dart%20sdk.png)
+![search dart sdk.png](https://github.com/AhmedWaela/install_dart_sdk/blob/main/search%20dart%20sdk.png)  ![dart sdk.png](https://github.com/AhmedWaela/install_dart_sdk/blob/main/dart%20sdk.png)
 
 The Dart SDK contains the tools we can use to write Dart code. We'll download it by clicking 'download as zip file' and selecting our operating system.
 
