@@ -3,6 +3,7 @@
 
 "Hello everyone, today we're going to set up the environment we really need to be able to write code in Dart, which is the language we're going to learn.
 
+![search dart sdk](search dart sdk.png)
 First, we'll open Chrome and go to the search bar. Then, we'll search for 'download Dart SDK'. This is the first thing we need. I'll click on the first link that appears.
 
 The Dart SDK contains the tools we can use to write Dart code. We'll download it by clicking 'download as zip file' and selecting our operating system.
